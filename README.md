@@ -47,19 +47,6 @@ If the shipment number does not exist, fill in the other details and click Save.
 If the shipment number exists, the form will populate with existing details. You can then update the fields and click Update.
 Use the Reset button to clear the form.
 
-Project Structure:
-shipment-management/
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
-├── includes/
-│   ├── config.php
-│   └── functions.php
-└── db/
-    └── delivery-db.sql
-
 Technologies Used:
 HTML: For the structure of the web application.
 CSS: For styling the application.
