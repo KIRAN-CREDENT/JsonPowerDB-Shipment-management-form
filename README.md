@@ -19,14 +19,11 @@ A web-based Shipment Management Form that allows users to store, update, and ret
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Scope of Functionalities](#scope-of-functionalities)
 - [Examples of Use](#examples-of-use)
-- [Project Status](#project-status)
 - [Sources](#sources)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Add Shipment**: Users can enter new shipment details.
